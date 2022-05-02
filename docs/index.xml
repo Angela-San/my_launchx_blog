@@ -19,15 +19,6 @@ En estas semanas he aprendido sobre:
     </item>
     
     <item>
-      <title>La cultura en el desarrollo de software</title>
-      <link>https://angela-san.github.io/my_launchx_blog/posts/intro/</link>
-      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
-      
-      <guid>https://angela-san.github.io/my_launchx_blog/posts/intro/</guid>
-      <description>En los persona, pienso que existen cinco pasos para crear una cultura de desarrollo de software seguro: 1.- La seguridad debe ser responsabilidad de todos. 2.- Escuchar a las personas implicadas en el SDLC para eliminar las fricciones. 3.- Incorpore aspectos de formación en sus herramientas. 4.- Hay que comunicar que “no hay calidad sin seguridad”. 5.- Conseguir el apoyo y la participación de los altos cargos.</description>
-    </item>
-    
-    <item>
       <title>About me</title>
       <link>https://angela-san.github.io/my_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -35,6 +26,15 @@ En estas semanas he aprendido sobre:
       <guid>https://angela-san.github.io/my_launchx_blog/pages/about/</guid>
       <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
 Tengo 32 años, me gusta nadar, algún día me gustaria ser maestra de natación para ayudarle a otras personas a vencer el miedo al agua y descubrir sus habilidades dentro de ella. Creo que aprender a programar y nadar es parecido ya que al principio da miedo, pero con cada día de práctica uno se puede volver muy hábil.</description>
+    </item>
+    
+    <item>
+      <title>La cultura en el desarrollo de software</title>
+      <link>https://angela-san.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://angela-san.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>En los persona, pienso que existen cinco pasos para crear una cultura de desarrollo de software seguro: 1.- La seguridad debe ser responsabilidad de todos. 2.- Escuchar a las personas implicadas en el SDLC para eliminar las fricciones. 3.- Incorpore aspectos de formación en sus herramientas. 4.- Hay que comunicar que “no hay calidad sin seguridad”. 5.- Conseguir el apoyo y la participación de los altos cargos.</description>
     </item>
     
   </channel>
