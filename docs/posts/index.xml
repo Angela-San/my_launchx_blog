@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://angela-san.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mis expectativas</title>
+      <title>La cultura en el desarrollo de software</title>
       <link>https://angela-san.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
       <guid>https://angela-san.github.io/my_launchx_blog/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
+      <description>En los persona, pienso que existen cinco pasos para crear una cultura de desarrollo de software seguro: 1.- La seguridad debe ser responsabilidad de todos. 2.- Escuchar a las personas implicadas en el SDLC para eliminar las fricciones. 3.- Incorpore aspectos de formación en sus herramientas. 4.- Hay que comunicar que “no hay calidad sin seguridad”. 5.- Conseguir el apoyo y la participación de los altos cargos.</description>
     </item>
     
   </channel>
