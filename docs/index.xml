@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Angela Sanchez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://angela-san.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://angela-san.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi viaje por Launch X</title>
+      <link>https://angela-san.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://angela-san.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola!
+En estas semanas he aprendido sobre:
+ Python CSS Html Js Node Js  Gracias por leer.</description>
+    </item>
+    
     <item>
       <title>La cultura en el desarrollo de software</title>
       <link>https://angela-san.github.io/my_launchx_blog/posts/intro/</link>
