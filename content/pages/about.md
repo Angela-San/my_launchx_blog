@@ -9,13 +9,5 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Tengo 32 años, me gusta nadar, algún día me gustaria ser maestra de natación para ayudarle a otras personas a vencer el miedo al agua y descubrir sus habilidades dentro de ella. Creo que aprender a programar y nadar es parecido ya que al principio da miedo, pero con cada día de práctica uno se puede volver muy hábil.
 
